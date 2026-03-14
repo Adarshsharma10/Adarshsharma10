@@ -19,7 +19,7 @@
 💬 Ask me about **Data Structures, Algorithms, and CP**  
 📚 This repository contains my **problem solutions, algorithm templates, and data structures** used in contests  
 📈 Always trying to **learn faster algorithms and improve problem-solving skills**  
-📫 Reach me at **sharmastudy27@gmail.com**
+📫 Reach me at : **sharmastudy27@gmail.com**
 
 </samp>
 </p>
